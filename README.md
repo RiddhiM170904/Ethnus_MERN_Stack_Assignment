@@ -6,9 +6,9 @@ Welcome to the official repository for my assignments submitted as part of the *
 
 ## 👤 Student Information
 
-- **Name:**  
-- **Registration No.:**  
-- **Email:**  
+- **Name:** Riddhi Mhadgut
+- **Registration No.:**  23BCE10110
+- **Email:**  riddhimhadgut17@gmail.com
 - **Institute:** VIT Bhopal
 
 ---
